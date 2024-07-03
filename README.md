@@ -1,5 +1,9 @@
 # Data Science
 
+### Technical Skills
+**Tools**: Python, R, AWS, SQL, Langchain, Excel
+**Certifications**: 
+
 ### Education
 
 ### Work Experience
